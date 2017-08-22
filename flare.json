@@ -1,0 +1,671 @@
+{
+  "name": "Education",
+  "children": [
+    {
+      "name": "Further and higher education, skills and vocational training",
+      "children": [
+        {
+          "name": "Further education funding",
+          "children": [
+            {
+              "name": "Administering student funding",
+              "size": 19
+            },
+            {
+              "name": "Dance and drama funding for 16 to 19 year olds",
+              "size": 3
+            },
+            {
+              "name": "Further education funding data",
+              "size": 53
+            },
+            {
+              "name": "Free meals for 16 to 18 year olds",
+              "size": 2
+            },
+            {
+              "name": "European Social Fund (ESF) and skills funding",
+              "size": 15
+            },
+            {
+              "name": "Further education buildings and land",
+              "size": 12
+            },
+            {
+              "name": "Apprenticeships funding",
+              "size": 24
+            },
+            {
+              "name": "Adult education funding",
+              "size": 7
+            }
+          ],
+          "size": 124
+        },
+        {
+          "name": "Apprenticeships, traineeships and internships",
+          "children": [
+            {
+              "name": "Hiring and training an intern or trainee",
+              "size": 15
+            },
+            {
+              "name": "Types of apprenticeships",
+              "size": 128
+            },
+            {
+              "name": "Becoming an intern or trainee",
+              "size": 19
+            },
+            {
+              "name": "Becoming an apprentice",
+              "size": 17
+            },
+            {
+              "name": "Hiring and training an apprentice",
+              "size": 394
+            }
+          ],
+          "size": 173
+        },
+        {
+          "name": "Adult and community learning",
+          "size": 32
+        },
+        {
+          "name": "Careers guidance in further and higher education",
+          "size": 42
+        },
+        {
+          "name": "Further and higher education courses and qualifications",
+          "children": [
+            {
+              "name": "Functional skills",
+              "size": 8
+            },
+            {
+              "name": "Principal learning qualifications",
+              "size": 4
+            }
+          ],
+          "size": 113
+        },
+        {
+          "name": "Further education financial management and data collection",
+          "children": [
+            {
+              "name": "Data collection for further education providers",
+              "size": 30
+            },
+            {
+              "name": "Local authority further education financial reporting and assurance",
+              "size": 7
+            },
+            {
+              "name": "Financial management for further education providers",
+              "size": 23
+            }
+          ],
+          "size": 10
+        },
+        {
+          "name": "Running a further or higher education institution",
+          "size": 61
+        },
+        {
+          "name": "Learning Records Service (LRS)",
+          "size": 20
+        },
+        {
+          "name": "Education in prisons",
+          "size": 10
+        }
+      ],
+      "size": 408
+    },
+    {
+      "name": "Pupil wellbeing, behaviour and attendance",
+      "children": [
+        {
+          "name": "School attendance and absence",
+          "size": 78
+        },
+        {
+          "name": "School discipline and exclusions",
+          "size": 48
+        },
+        {
+          "name": "Safeguarding pupils",
+          "size": 33
+        },
+        {
+          "name": "Health, safety and wellbeing in schools",
+          "size": 41
+        },
+        {
+          "name": "School bullying",
+          "size": 25
+        },
+        {
+          "name": "Alternative provision and pupil referral units",
+          "size": 22
+        }
+      ],
+      "size": 65
+    },
+    {
+      "name": "Teaching and leadership",
+      "children": [
+        {
+          "name": "Teaching standards, misconduct and practice",
+          "size": 673
+        },
+        {
+          "name": "Teacher training and professional development",
+          "children": [
+            {
+              "name": "School leadership",
+              "size": 81
+            },
+            {
+              "name": "Initial Teacher Training (ITT)",
+              "size": 145
+            },
+            {
+              "name": "Qualified Teacher Status (QTS)",
+              "size": 17
+            }
+          ],
+          "size": 92
+        },
+        {
+          "name": "Recruiting, inducting and managing teachers",
+          "size": 61
+        },
+        {
+          "name": "Teacher pay, pensions and conditions",
+          "size": 119
+        },
+        {
+          "name": "Teacher records",
+          "size": 2
+        }
+      ],
+      "size": 96
+    },
+    {
+      "name": "Inspections and performance of education providers",
+      "children": [
+        {
+          "name": "Inspection and performance of schools",
+          "children": [
+            {
+              "name": "School intervention notices and reports",
+              "size": 210
+            },
+            {
+              "name": "Inspection of local authority support for schools",
+              "size": 43
+            },
+            {
+              "name": "School performance tables and Ofsted reports",
+              "size": 138
+            },
+            {
+              "name": "Inspection of maintained schools and academies",
+              "size": 115
+            },
+            {
+              "name": "Inspection of boarding and residential schools",
+              "size": 17
+            },
+            {
+              "name": "Inspection of non-maintained schools",
+              "size": 2
+            },
+            {
+              "name": "Inspection of British schools overseas",
+              "size": 7
+            },
+            {
+              "name": "School performance measures",
+              "size": 62
+            },
+            {
+              "name": "Inspection of independent schools",
+              "size": 46
+            },
+            {
+              "name": "Pupil performance in schools",
+              "size": 87
+            }
+          ],
+          "size": 214
+        },
+        {
+          "name": "Inspection and performance of further education providers",
+          "children": [
+            {
+              "name": "Inspection of further education and skills providers",
+              "size": 60
+            },
+            {
+              "name": "Performance data and Ofsted reports of further education providers",
+              "size": 37
+            },
+            {
+              "name": "Further education provider performance measures",
+              "size": 37
+            },
+            {
+              "name": "Student performance in further education",
+              "size": 18
+            },
+            {
+              "name": "Further education intervention notices and reports",
+              "size": 17
+            },
+            {
+              "name": "Inspection of residential provision in further education colleges",
+              "size": 3
+            }
+          ],
+          "size": 115
+        }
+      ],
+      "size": 25
+    },
+    {
+      "name": "Education of disadvantaged children",
+      "size": 97
+    },
+    {
+      "name": "Starting and attending school",
+      "children": [
+        {
+          "name": "Sending a child to school",
+          "size": 15
+        },
+        {
+          "name": "Help with school costs",
+          "size": 9
+        },
+        {
+          "name": "Dealing with problems at school",
+          "size": 12
+        },
+        {
+          "name": "Home schooling",
+          "size": 6
+        }
+      ],
+      "size": 9
+    },
+    {
+      "name": "Running and managing a school",
+      "children": [
+        {
+          "name": "Data collection and censuses for schools",
+          "children": [
+            {
+              "name": "School censuses and school-level annual school censuses (SLASC)",
+              "size": 45
+            },
+            {
+              "name": "School preference and admission appeals data collection",
+              "size": 14
+            },
+            {
+              "name": "Key stage 1 and 2 assessments data collection",
+              "size": 9
+            },
+            {
+              "name": "Parental responsibility measures attendance censuses",
+              "size": 4
+            },
+            {
+              "name": "School capacity surveys",
+              "size": 11
+            },
+            {
+              "name": "Alternative provision censuses",
+              "size": 10
+            },
+            {
+              "name": "Special educational needs surveys",
+              "size": 3
+            },
+            {
+              "name": "Phonics screening checks",
+              "size": 14
+            },
+            {
+              "name": "General hospital school censuses",
+              "size": 3
+            },
+            {
+              "name": "School exclusion reviews",
+              "size": 3
+            },
+            {
+              "name": "School workforce censuses",
+              "size": 13
+            }
+          ],
+          "size": 46
+        },
+        {
+          "name": "School buildings and land",
+          "children": [
+            {
+              "name": "School places",
+              "size": 38
+            },
+            {
+              "name": "School buildings and land transactions",
+              "size": 12
+            },
+            {
+              "name": "School buildings and land guidelines",
+              "size": 43
+            }
+          ],
+          "size": 32
+        },
+        {
+          "name": "School planning",
+          "size": 23
+        },
+        {
+          "name": "School governance",
+          "size": 61
+        },
+        {
+          "name": "School food, accommodation, transport and uniform",
+          "size": 26
+        },
+        {
+          "name": "Setting up or changing the status of a school",
+          "children": [
+            {
+              "name": "Set up or convert to an academy",
+              "size": 73
+            },
+            {
+              "name": "Set up and develop a multi-academy trust (MAT)",
+              "size": 12
+            },
+            {
+              "name": "Set up a free school",
+              "size": 112
+            }
+          ],
+          "size": 56
+        },
+        {
+          "name": "School to school support",
+          "size": 47
+        },
+        {
+          "name": "School complaints and whistleblowing",
+          "size": 11
+        },
+        {
+          "name": "School trips and extracurricular activity",
+          "size": 34
+        },
+        {
+          "name": "School admissions",
+          "size": 100
+        },
+        {
+          "name": "Careers guidance in schools",
+          "size": 31
+        },
+        {
+          "name": "Recruiting and managing non-teaching school staff",
+          "size": 30
+        }
+      ],
+      "size": 173
+    },
+    {
+      "name": "School and academy financial management and assurance",
+      "children": [
+        {
+          "name": "Financial management, reporting and assurances for 16 to 19 year olds funding",
+          "size": 13
+        },
+        {
+          "name": "School procurement",
+          "size": 32
+        },
+        {
+          "name": "Academy and academy trust finance and reporting",
+          "size": 70
+        },
+        {
+          "name": "Local authority schools financial reporting and assurance",
+          "size": 45
+        }
+      ],
+      "size": 21
+    },
+    {
+      "name": "Funding and finance for students",
+      "children": [
+        {
+          "name": "Student grants, bursaries and scholarships",
+          "size": 43
+        },
+        {
+          "name": "Financial help for students who are parents or carers",
+          "size": 5
+        },
+        {
+          "name": "Student loans",
+          "size": 52
+        }
+      ],
+      "size": 11
+    },
+    {
+      "name": "School curriculum",
+      "children": [
+        {
+          "name": "Primary curriculum, key stage 2",
+          "children": [
+            {
+              "name": "Programmes of study (key stage 2)",
+              "size": 12
+            },
+            {
+              "name": "Science (key stage 2)",
+              "size": 8
+            },
+            {
+              "name": "English (key stage 2)",
+              "size": 11
+            },
+            {
+              "name": "Maths (key stage 2)",
+              "size": 14
+            },
+            {
+              "name": "Tests and assessments (key stage 2)",
+              "size": 254
+            }
+          ],
+          "size": 40
+        },
+        {
+          "name": "Spiritual, moral, social and cultural development",
+          "size": 72
+        },
+        {
+          "name": "Early years curriculum",
+          "size": 34
+        },
+        {
+          "name": "Secondary curriculum, key stage 3 and key stage 4 (GCSEs)",
+          "children": [
+            {
+              "name": "GCSE changes and reforms",
+              "size": 219
+            },
+            {
+              "name": "Key stage 3 and 4 exam marking, qualifications and results",
+              "size": 289
+            },
+            {
+              "name": "GCSE subject content and requirements",
+              "size": 210
+            }
+          ],
+          "size": 94
+        },
+        {
+          "name": "Primary curriculum, key stage 1",
+          "children": [
+            {
+              "name": "Programmes of study (key stage 1)",
+              "size": 11
+            },
+            {
+              "name": "Science (key stage 1)",
+              "size": 3
+            },
+            {
+              "name": "Maths (key stage 1)",
+              "size": 9
+            },
+            {
+              "name": "Tests and assessments (key stage 1)",
+              "size": 181
+            },
+            {
+              "name": "Phonics",
+              "size": 95
+            }
+          ],
+          "size": 38
+        },
+        {
+          "name": "Exam regulation and administration",
+          "size": 315
+        },
+        {
+          "name": "Personal, social, health and economic education",
+          "size": 31
+        },
+        {
+          "name": "Key stage 5 (AS and A Levels)",
+          "children": [
+            {
+              "name": "AS and A level subject content and requirements",
+              "size": 164
+            },
+            {
+              "name": "AS and A level changes and reforms",
+              "size": 137
+            },
+            {
+              "name": "Key stage 5 exam marking, qualifications and results",
+              "size": 236
+            }
+          ],
+          "size": 36
+        }
+      ],
+      "size": 118
+    },
+    {
+      "name": "Special educational needs and disability (SEND) and high needs",
+      "children": [
+        {
+          "name": "Funding for special educational needs and disability (SEND)",
+          "size": 39
+        },
+        {
+          "name": "Support for special educational needs and disability (SEND) ",
+          "size": 60
+        },
+        {
+          "name": "Funding for high needs",
+          "size": 18
+        }
+      ],
+      "size": 121
+    },
+    {
+      "name": "School and academy funding",
+      "children": [
+        {
+          "name": "Funding for different types of schools and settings",
+          "children": [
+            {
+              "name": "Special schools funding",
+              "size": 7
+            },
+            {
+              "name": "Alternative provision funding",
+              "size": 7
+            },
+            {
+              "name": "Local authority schools funding",
+              "size": 53
+            },
+            {
+              "name": "Funding for 16 to 19 year olds in schools",
+              "size": 45
+            },
+            {
+              "name": "Academy funding",
+              "size": 58
+            },
+            {
+              "name": "Early years funding",
+              "size": 32
+            }
+          ],
+          "size": 40
+        },
+        {
+          "name": "Pupil premium and other school premiums ",
+          "size": 66
+        },
+        {
+          "name": "Free school meals (FSM) funding ",
+          "size": 23
+        },
+        {
+          "name": "Funding for school buildings and land",
+          "size": 80
+        },
+        {
+          "name": "Schools forums",
+          "size": 4
+        },
+        {
+          "name": "Initial Teacher Training funding",
+          "children": [
+            {
+              "name": "School Direct funding",
+              "size": 5
+            },
+            {
+              "name": "Subject Knowledge Enhancement (SKE) funding",
+              "size": 9
+            }
+          ],
+          "size": 13
+        },
+        {
+          "name": "Funding for school places",
+          "size": 15
+        }
+      ],
+      "size": 137
+    }
+  ]
+}
